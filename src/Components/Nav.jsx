@@ -12,7 +12,7 @@ function Nav() {
         {PROJECT_NAME}
         </Link>
         <div className="hidden md:flex md:gap-x-6">
-          <Link  to="/"
+          <Link  to="/feed"
             className="inline-block rounded-lg px-2 py-1 text-sm text-slate-700 hover:bg-slate-100 hover:text-slate-900"
            
           >
