@@ -1,110 +1,110 @@
 import React from 'react'
 
 function Feed() {
-  return (
-    <div className="_wYiJGbRZyFZeCc8y7Sf UYOSZJ1_pv3B5nt1ujCP _Ybd3WwuTVljUT4vEaM3 mveJTCIb2WII7J4sY22F mngKhi_Rv06PF57lblDI _1jTZ8KXRZul60S6czNi li3V2nWsIccF5bigdJK_ mLcQlleCsw78f8JnJ0rz wlDQu3XsiQM08HEeTqes">
-    <div className="YRrCJSr_j5nopfm4duUc Q_jg_EPdNf9eDMn1mLI2 d4louhNic5PFgJGRKqn6">
-      <div className="VQS2tmQ_zFyBOC2tkmto">
-        <img
-          className="hlT3pgfpx11BUFMWNdhc Mln3CkDzLcoVQAC3Uqsd RpVwy4sO7Asb86CncKJ_"
-          src="https://flowbite.com/application-ui/demo/images/users/neil-sims.png"
-          alt="Neil Sims"
-        />
-      </div>
-      <div className="_74lpPUMEtHf6F0_fjLe G4dLHP1O7x3gaD0_p7Kc">
-        <p className="c8dCx6gnV43hTOLV6ks5 yM_AorRf2jSON3pDsdrz __9sbu0yrzdhGIkLWNXl vfNYjqjYMlN1XskEucCt OyABRrnTV_kvHV7dJ0uE">
-          Neil Sims
-        </p>
-        <p className="c8dCx6gnV43hTOLV6ks5 _43MO1gcdi2Y0RJW1uHL PeR2JZ9BZHYIH8Ea3F36 vfNYjqjYMlN1XskEucCt XIIs8ZOri3wm8Wnj9N_y">
-          12 April at 09.28 PM
-        </p>
-      </div>
-      <a
-        href="#"
-        className="_k0lTW0vvzboctTxDi2R Nm7xMnguzOx6J5Ao7yCU sQaK4IH7BIQSgBTGX8Pe PeR2JZ9BZHYIH8Ea3F36 Y3FxyuXtj2gecrGXvLEI SA5DoMHfwOFtY4h_qzuM OPrb_iG5WDy_7F05BDOX dMTOiA3mf3FTjlHu6DqW XIIs8ZOri3wm8Wnj9N_y ZnBoTVi7VOJdCLSSU62n _7KA5gD55t2lxf9Jkj20"
-      >
-        <svg
-          className="YIUegm7fh_CpJbivTu6B MnxxlQlR1H0xJuMEE8Yr"
-          fill="currentColor"
-          viewBox="0 0 20 20"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <path d="M10 6a2 2 0 110-4 2 2 0 010 4zM10 12a2 2 0 110-4 2 2 0 010 4zM10 18a2 2 0 110-4 2 2 0 010 4z" />
-        </svg>
-      </a>
-    </div>
-    <div className="UYOSZJ1_pv3B5nt1ujCP">
-      <p className="d3C8uAdJKNl1jzfE9ynq _43MO1gcdi2Y0RJW1uHL PeR2JZ9BZHYIH8Ea3F36 XIIs8ZOri3wm8Wnj9N_y">
-        Hi @everyone, the new designs are attached. Go check them out and let me
-        know if I missed anything. Thanks!
-      </p>
-      <div className="YRrCJSr_j5nopfm4duUc hP1M5IgfjJiY8_B1VUN1">
-        <img
-          className="fScvmu_bLBCkoXb3Xml3 oADHwEO31S0aPXWCcSfQ hD0sTTDgbxakubcHVW2X y7LTF_4HCOoAzmZm_v8k mveJTCIb2WII7J4sY22F"
-          src="https://flowbite.com/application-ui/demo/images/feed/image-1.jpg"
-          alt="task screenshot"
-        />
-        <img
-          className="fScvmu_bLBCkoXb3Xml3 oADHwEO31S0aPXWCcSfQ hD0sTTDgbxakubcHVW2X y7LTF_4HCOoAzmZm_v8k mveJTCIb2WII7J4sY22F"
-          src="https://flowbite.com/application-ui/demo/images/feed/image-2.jpg"
-          alt="task screenshot"
-        />
-      </div>
-    </div>
-    <div className="YRrCJSr_j5nopfm4duUc i8v96MUlFwGv9qJUkAx7 e2hrZSYddULUFUtJ9wBR pVSXSlnJdgskzP7BxPBe EpUSgjHdM6oyMXUiK_8_ qUWbS_LTZujDB4XCd11V _fGhMnSfYmaGrv7DvZ00">
-      <a
-        href="#"
-        className="YRrCJSr_j5nopfm4duUc Q_jg_EPdNf9eDMn1mLI2 c8dCx6gnV43hTOLV6ks5 ezMFUVl744lvw6ht0lFe PeR2JZ9BZHYIH8Ea3F36 oJZU4OQzzfXeLbF7UKZ_ ZnBoTVi7VOJdCLSSU62n XIIs8ZOri3wm8Wnj9N_y dMTOiA3mf3FTjlHu6DqW"
-      >
-        <svg
-          className="E9GV5sZJIbfO_GEQ_moc _o2IXcpM0qnG3JPReKus _x10ClrjYfqGxZTMmpBl"
-          fill="currentColor"
-          viewBox="0 0 20 20"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <path
-            fillRule="evenodd"
-            d="M18 13V5a2 2 0 00-2-2H4a2 2 0 00-2 2v8a2 2 0 002 2h3l3 3 3-3h3a2 2 0 002-2zM5 7a1 1 0 011-1h8a1 1 0 110 2H6a1 1 0 01-1-1zm1 3a1 1 0 100 2h3a1 1 0 100-2H6z"
-            clipRule="evenodd"
-          />
-        </svg>
-        7 Comments
-      </a>
-      <a
-        href="#"
-        className="YRrCJSr_j5nopfm4duUc Q_jg_EPdNf9eDMn1mLI2 c8dCx6gnV43hTOLV6ks5 ezMFUVl744lvw6ht0lFe PeR2JZ9BZHYIH8Ea3F36 oJZU4OQzzfXeLbF7UKZ_ ZnBoTVi7VOJdCLSSU62n XIIs8ZOri3wm8Wnj9N_y dMTOiA3mf3FTjlHu6DqW"
-      >
-        <svg
-          className="E9GV5sZJIbfO_GEQ_moc _o2IXcpM0qnG3JPReKus _x10ClrjYfqGxZTMmpBl"
-          fill="currentColor"
-          viewBox="0 0 20 20"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <path
-            fillRule="evenodd"
-            d="M3.172 5.172a4 4 0 015.656 0L10 6.343l1.172-1.171a4 4 0 115.656 5.656L10 17.657l-6.828-6.829a4 4 0 010-5.656z"
-            clipRule="evenodd"
-          />
-        </svg>
-        457 Likes
-      </a>
-    </div>
-    <div>
-      <form action="#">
-        <label htmlFor="write-message" className="_DVAfiyo21kM68EUVzEQ">
-          Comment
-        </label>
-        <input
-          type="text"
-          id="write-message"
-          placeholder="Write comment"
-          className="jtAJHOc7mn7b4IKRO59D pXhVRBC8yaUNllmIWxln vpDN1VEJLu5FmLkr5WCk __9sbu0yrzdhGIkLWNXl c8dCx6gnV43hTOLV6ks5 mveJTCIb2WII7J4sY22F GdTcGtoKP5_bET3syLDl LceKfSImrGKQrtDGkpBV _Vb9igHms0hI1PQcvp_S t6gkcSf0Bt4MLItXvDJ_ olxDi3yL6f0gpdsOFDhx jqg6J89cvxmDiFpnV56r Mmx5lX7HVdrWCgh3EpTP H7KQDhgKsqZaTUouEUQL OyABRrnTV_kvHV7dJ0uE KpCMWe32PQyrSFbZVput q6szSHqGtBufkToFe_s5"
-        />
-      </form>
-    </div>
-  </div>
-  
-  )
+    return (
+        <div className='justify-center flex'>
+            <div className="flex gap-3 m-3 p-6 border-2 border-white lg:w-3/6 rounded-md" style={{
+                boxShadow: "rgba(99, 99, 99, 0.2) 0px 2px 8px 0px"
+            }}>
+                <img
+                    className="w-12 h-12"
+                    src="https://pagedone.io/asset/uploads/1704092147.png"
+                    alt="Hailey image"
+                />
+                <div className="grid gap-3">
+                    <div className="grid gap-0.5">
+                        <h2 className="text-gray-900 text-sm font-medium leading-snug">
+                            Hailey Garza{" "}
+                            <span className="text-gray-500">
+                                added new tags to Ease Design System
+                            </span>
+                        </h2>
+                        <h3 className="text-gray-500 text-xs font-normal leading-4">
+                            Account | Friday, 10:03 AM
+                        </h3>
+                    </div>
+                    <div className="">
+                        <p className='text-gray-400 text-gray-500 font-extralight '>Hi @everyone, the new designs are attached. Go check them out and let me know if I missed anything. Thanks!</p>
+                    </div>
+                    <div>
+                        <div className="my-2 flex gap-2 flex-wrap">
+                            <img
+                                className="rounded-lg w-48 h-48"
+                                src="https://flowbite.com/application-ui/demo/images/feed/image-1.jpg"
+                                alt="task screenshot"
+                            />
+                            <img
+                                className="rounded-lg w-48 h-48"
+                                src="https://flowbite.com/application-ui/demo/images/feed/image-2.jpg"
+                                alt="task screenshot"
+                            />
+                        </div>
+                        <hr />
+                        <div className='flex gap-2 my-3'>
+                            <div className="flex gap-1">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="size-6 cursor-pointer">
+                                    <path fillRule="evenodd" d="M4.848 2.771A49.144 49.144 0 0 1 12 2.25c2.43 0 4.817.178 7.152.52 1.978.292 3.348 2.024 3.348 3.97v6.02c0 1.946-1.37 3.678-3.348 3.97a48.901 48.901 0 0 1-3.476.383.39.39 0 0 0-.297.17l-2.755 4.133a.75.75 0 0 1-1.248 0l-2.755-4.133a.39.39 0 0 0-.297-.17 48.9 48.9 0 0 1-3.476-.384c-1.978-.29-3.348-2.024-3.348-3.97V6.741c0-1.946 1.37-3.68 3.348-3.97ZM6.75 8.25a.75.75 0 0 1 .75-.75h9a.75.75 0 0 1 0 1.5h-9a.75.75 0 0 1-.75-.75Zm.75 2.25a.75.75 0 0 0 0 1.5H12a.75.75 0 0 0 0-1.5H7.5Z" clipRule="evenodd" />
+                                </svg>
+
+                                <span className='text-gray-500 font-medium'> 7 Comments </span>
+
+                            </div>
+
+
+                            <div className='flex gap-1'>
+
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="size-6 cursor-pointer">
+                                    <path d="m11.645 20.91-.007-.003-.022-.012a15.247 15.247 0 0 1-.383-.218 25.18 25.18 0 0 1-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0 1 12 5.052 5.5 5.5 0 0 1 16.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 0 1-4.244 3.17 15.247 15.247 0 0 1-.383.219l-.022.012-.007.004-.003.001a.752.752 0 0 1-.704 0l-.003-.001Z" />
+                                </svg>
+
+                                <span className='text-gray-500 font-medium'> 457 Likes </span>
+                            </div>
+
+                        </div>
+                        <hr />
+                        <div className="flex flex-wrap -mx-3 mb-6">
+                            <div className="w-full px-3">
+                                <label
+                                    className="block uppercase tracking-wide text-gray-700 text-xs font-medium my-2"
+                                    htmlFor="grid-password"
+                                >
+                                    Comment
+                                </label>
+                                <div className="flex">
+                                    <input
+                                        className="appearance-none block w-full bg-gray-100 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"
+                                        id="grid-password"
+                                        type="text"
+                                        placeholder="Write Comment"
+                                    />
+                                    <svg
+                                        xmlns="http://www.w3.org/2000/svg"
+                                        viewBox="0 0 24 24"
+                                        fill="currentColor"
+                                        className="size-6 cursor-pointer"
+                                        style={{ position: "relative", top: 11, left: "-30px" }}
+                                    >
+                                        <path
+                                            fillRule="evenodd"
+                                            d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25Zm4.28 10.28a.75.75 0 0 0 0-1.06l-3-3a.75.75 0 1 0-1.06 1.06l1.72 1.72H8.25a.75.75 0 0 0 0 1.5h5.69l-1.72 1.72a.75.75 0 1 0 1.06 1.06l3-3Z"
+                                            clipRule="evenodd"
+                                        />
+                                    </svg>
+                                </div>
+
+
+
+                            </div>
+                        </div>
+
+                        <div></div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    )
 }
 
 export default Feed
